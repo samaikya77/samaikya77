@@ -8,7 +8,8 @@ Hey there, I'm Samaikya Venna (@samaikya77):wave:
 :envelope_with_arrow: **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/Samaikya Venna/) or email me at sami.venna@gmail.com<br><br>
 ---
 ## :globe_with_meridians: Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samaikya Venna/)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samaikya Venna/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
 ---
 # :computer: Tech Stack & Skills:
 ### 🚀: Frontend Development
