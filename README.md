@@ -1,6 +1,3 @@
-
-Himanay Khajuria
-  2:13 PM
 # :sparkles: About Me:
 :rocket: **I’m currently working on** Developing and maintaining dynamic, responsive user interfaces using JavaScript, and React.js at SITA.dev.<br><br>
 :handshake: **I’m looking to collaborate on** projects that focus on crafting intuitive UI designs optimizing web performance and enhancing user experiences.<br><br>
