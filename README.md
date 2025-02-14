@@ -1,5 +1,6 @@
 # :sparkles: About Me:
-Hey there, I'm Samaikya Venna (@samaikya77)
+Hey there, 
+I'm Satya Samaikya Venna(@samaikya77)👋
 
 :rocket:I’m currently working developing and maintaining dynamic, responsive user interfaces using JavaScript, and React.js at SITA.dev.<br><br>
 :handshake:I’m looking to collaborate on open-source projects and UX/UI designs.<br><br>
