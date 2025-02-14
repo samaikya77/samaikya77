@@ -1,14 +1,14 @@
 # :sparkles: About Me:
-:rocket: **I’m currently working on** Developing and maintaining dynamic, responsive user interfaces using JavaScript, and React.js at SITA.dev.<br><br>
-:handshake: **I’m looking to collaborate on** projects that focus on crafting intuitive UI designs optimizing web performance and enhancing user experiences.<br><br>
-:sos: **I’m looking for help with** exploring advanced design systems improving accessibility and integrating seamless animations.<br><br>
-:seedling: **I’m currently learning** advanced React concepts performance optimization and UX/UI best practices.<br><br>
-:bulb: **Ask me about** Frontend Development learning React.js and interests in UI/UX Design and Debugging! I’d love to chat about best practices, performance optimization, and my journey from teaching to tech.<br><br>
+Hey there, I'm Samaikya Venna (@samaikya77):wave:
+:rocket:I’m currently working developing and maintaining dynamic, responsive user interfaces using JavaScript, and React.js at SITA.dev.<br><br>
+:handshake:I’m looking to collaborate on open-source projects and UX/UI designs.<br><br>
+:sos: I’m looking to exploring advanced design systems improving accessibility and integrating seamless animations.<br><br>
+:seedling: I’m currently learning advanced React concepts performance optimization and UX/UI best practices.<br><br>
 :tada: **Fun fact** Before diving into front-end development, I was a math and computer teacher! Teaching honed my problem-solving skills, ability to break down complex concepts—skills that now help me write clean, efficient code!<br><br>
 :envelope_with_arrow: **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/Samaikya Venna/) or email me at sami.venna@gmail.com<br><br>
 ---
 ## :globe_with_meridians: Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samaikya Venna/)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sami Prash)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@allarisamkathalu227)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samaikya Venna/)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
 ---
 # :computer: Tech Stack & Skills:
 ### 🚀: Frontend Development
