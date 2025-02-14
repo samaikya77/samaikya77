@@ -1,66 +1,65 @@
-# 💫 About Me:
-🚀 **Currently Working On:**  
-Developing and maintaining dynamic, responsive user interfaces using **HTML, CSS, JavaScript**, and **React.js** at **SITA.dev**. I collaborate in an agile environment, track user stories on GitHub, and use **Jira** for planning and managing dependencies. I also focus on state management (e.g., Redux, Context API), **UI/UX design**, and **web performance optimization**.
 
-🔍 **Looking to Collaborate On:**  
-I’m eager to work on **front-end development** projects involving **React.js**, **TypeScript**, **Responsive Design**, and **UI/UX design**. I’m particularly interested in projects focused on **state management** (Redux, Vuex), **API integration** (RESTful, GraphQL), and **performance optimization**.
+Himanay Khajuria
+  2:13 PM
+# :sparkles: About Me:
+:rocket: **I’m currently working on** Developing and maintaining dynamic, responsive user interfaces using JavaScript, and React.js at SITA.dev.<br><br>
+:handshake: **I’m looking to collaborate on** projects that focus on crafting intuitive UI designs optimizing web performance and enhancing user experiences.<br><br>
+:sos: **I’m looking for help with** exploring advanced design systems improving accessibility and integrating seamless animations.<br><br>
+:seedling: **I’m currently learning** advanced React concepts performance optimization and UX/UI best practices.<br><br>
+:bulb: **Ask me about** Frontend Development learning React.js and interests in UI/UX Design and Debugging! I’d love to chat about best practices, performance optimization, and my journey from teaching to tech.<br><br>
+:tada: **Fun fact** Before diving into front-end development, I was a math and computer teacher! Teaching honed my problem-solving skills, ability to break down complex concepts—skills that now help me write clean, efficient code!<br><br>
+:envelope_with_arrow: **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/Samaikya Venna/) or email me at sami.venna@gmail.com<br><br>
+---
+## :globe_with_meridians: Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samaikya Venna/)
+---
+# :computer: Tech Stack & Skills:
+### :rocket: Frontend Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-%230074D9.svg?style=for-the-badge)
+### :art: UI/UX & Styling
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI/UX-Design-%23E34F26.svg?style=for-the-badge)
+### :spanner: State Management & Build Tools
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vuex](https://img.shields.io/badge/vuex-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Context API](https://img.shields.io/badge/Context-API-%230074D9.svg?style=for-the-badge)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/babel-%23F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+### :magnifying_glass: Testing & Debugging
+![Cypress](https://img.shields.io/badge/cypress-%23004D40.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem-Solving-%230074D9.svg?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-%230074D9.svg?style=for-the-badge)
+### :zap: Web Performance & Security
+![Web Performance](https://img.shields.io/badge/Web-Performance-%230074D9.svg?style=for-the-badge)
+![RESTful APIs](https://img.shields.io/badge/RESTful-APIs-%230074D9.svg?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web-Security-%230074D9.svg?style=for-the-badge)
+### :arrows_anticlockwise: Version Control & Agile Tools
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%230074D9.svg?style=for-the-badge&logo=trello&logoColor=white)
+---
+# :bar_chart: # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samaikya77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samaikya77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samaikya77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🛠️ **Looking for Help With:**  
-I aim to enhance my expertise in **CI/CD pipelines** (Jenkins), **build tools** (Webpack, Babel, npm, Yarn), and advanced **debugging techniques**. I’m also interested in improving my knowledge of **cross-browser compatibility**, **web security**, and **large-scale front-end application development**.
-
-📚 **Currently Learning:**  
-- **TypeScript**  
-- **RESTful APIs**  
-- **Cypress** for testing  
-- **Advanced front-end debugging methodologies**  
-- Improving my **Swedish** language skills  
-- Diving deeper into **Postman API** testing and **web security basics**.
-
-💬 **Ask Me About:**  
-- **JavaScript, React.js, Redux**  
-- **UI/UX Design**, **Problem-Solving**, **Debugging**  
-- **Git & Version Control**, **Web Performance Optimization**, **Agile Development (JIRA, Trello)**  
-- My **transition from teaching** to **tech**!
-
-🎉 **Fun Fact About Me:**  
-Before becoming a front-end developer, I was a **math and computer teacher**! My teaching experience has helped me develop strong **problem-solving skills**, **patience**, and **adaptability**—all essential qualities in coding. 😊
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=samaikya77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SamiPrash)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SamaikyaVenna)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@allarisamkathalu227)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sami.venna@gmail.com)
-
----
-
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samaikya77&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samaikya77&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samaikya77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=samaikya77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=samaikya77&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
