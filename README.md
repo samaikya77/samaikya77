@@ -1,12 +1,12 @@
 # :sparkles: About Me:
-Hey there, I'm Samaikya Venna (@samaikya77):wave:
+Hey there, I'm Samaikya Venna (@samaikya77)
 
 :rocket:I’m currently working developing and maintaining dynamic, responsive user interfaces using JavaScript, and React.js at SITA.dev.<br><br>
 :handshake:I’m looking to collaborate on open-source projects and UX/UI designs.<br><br>
 :sos: I’m looking to exploring advanced design systems improving accessibility and integrating seamless animations.<br><br>
 :seedling: I’m currently learning advanced React concepts performance optimization and UX/UI best practices.<br><br>
 :tada: **Fun fact** Before diving into front-end development, I was a math and computer teacher! Teaching honed my problem-solving skills, ability to break down complex concepts—skills that now help me write clean, efficient code!<br><br>
-:envelope_with_arrow: **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/Samaikya Venna/) or email me at sami.venna@gmail.com<br><br>
+:envelope_with_arrow: **Let’s connect!** Find me on [LinkedIn](https://www.linkedin.com/in/samaikya-venna/) or email me at sami.venna@gmail.com<br><br>
 ---
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/samaikya-venna)
